@@ -1,10 +1,10 @@
 # Advanced-Computer-Graphics
 
-Contains images and executables from my year 3 Advanced Computer Graphics module
+Contains images and executables produced in my third year module: Advanced Computer Graphics
 
 As per the lecturer's request, all code is hidden in a private submodule
 
-However, I have included the executables in this repository which result in the images as shown below
+The images produced below are a result of using a raytracer in C++ built from scratch
 
 <table width="100%">
   <tr>
