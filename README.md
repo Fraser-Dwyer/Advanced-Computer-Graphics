@@ -2,9 +2,10 @@
 
 Contains images and executables produced in my third year module: Advanced Computer Graphics
 
-As per the lecturer's request, all code is hidden in a private submodule
+The images below were produced by using a raytracer built from scratch using C++
 
-The images produced below are a result of using a raytracer in C++ built from scratch
+(As per the lecturer's request, all code for the raytracer is hidden in a private submodule)
+
 
 <table width="100%">
   <tr>
